@@ -1,7 +1,7 @@
 필요한 라이브러리 설치
 pip install tkinter serial
 
-exe 파일 생성시
+exe 파일을 생성하기 위해
 pip install pyinstaller
 실행 하여 설치 후
 vs code 아래 커맨드 창에서
